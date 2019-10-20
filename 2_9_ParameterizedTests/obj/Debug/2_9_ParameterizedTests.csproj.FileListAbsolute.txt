@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\bin\Debug\2_9_ParameterizedTests.exe.config
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\bin\Debug\2_9_ParameterizedTests.exe
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\bin\Debug\2_9_ParameterizedTests.pdb
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\obj\Debug\2_9_ParameterizedTests.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\obj\Debug\2_9_ParameterizedTests.exe
+D:\[OOP] - Object Oriented Programming\Test\2_9_ParameterizedTests\2_9_ParameterizedTests\obj\Debug\2_9_ParameterizedTests.pdb
